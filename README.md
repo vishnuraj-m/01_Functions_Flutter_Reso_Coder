@@ -3,4 +3,5 @@ in `lib/`, and example unit test in `test/`.
 
 <h1 align="center">Flutter Tutorial</h1>
 
-- Function 
+- Function Basics
+    *Top level Function and Nested Function
