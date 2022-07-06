@@ -12,3 +12,5 @@ in `lib/`, and example unit test in `test/`.
 - Positional Parameter
 - Optional Positional Parameter
 - Named Optional Parameter
+- Named Required Parameter
+- Named Required Parameter add positional parameter
