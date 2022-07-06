@@ -4,11 +4,11 @@ in `lib/`, and example unit test in `test/`.
 <h1 align="center">Flutter Tutorial</h1>
 
 
-<h1>Functions Basics</h1>
+<h3>Functions Basics</h3>
 - Top level Function
 - Nested Function
 
-<h1>Functions Parameter</h1>
+<h3>Functions Parameter</h3>
 - Positional Parameter
 - Optional Positional Parameter
 - Named Optional Parameter
